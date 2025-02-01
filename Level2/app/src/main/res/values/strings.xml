@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Level2</string>
+    <string name="string">Android Studio Layouts</string>
+    <string name="Linear"><![CDATA[\nA Linear Layout in Android Studio is a ViewGroup that aligns all its children in a single direction—either vertically or horizontally.\n-->Key Properties\nandroid:orientation=\"vertical\" → Arranges children vertically.\nandroid:orientation=\"horizontal\" → Arranges children horizontally.\nandroid:layout_weight=\"1\" → Distributes space among children.\nandroid:gravity=\"center\" → Aligns content inside the layout.\n]]></string>
+    <string name="Constraint"><![CDATA[Constraint Layout is a flexible and efficient ViewGroup that allows you to position UI elements relative to each other or to the parent container.\n-->Why Use ConstraintLayout?\nReduces nesting of layouts (improves performance).\nSupports complex UI designs.\nOffers flexible alignment and positioning options.\n]]></string>
+    <string name="Frame">A Frame Layout is a simple and efficient ViewGroup designed to hold a single child view or multiple overlapping views. It is commonly used for stacking views on top of each other, making it ideal for things like fragments, overlays, or placeholders.</string>
+    <string name="Table"><![CDATA[-->Table Layout in Android Studio\nA TableLayout is a ViewGroup that arranges its children into rows and columns, similar to an HTML table. It is useful for creating grid-like UI structures, such as forms, invoices, or structured data layouts.]]></string>
+</resources>
